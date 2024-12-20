@@ -1,4 +1,4 @@
-# Billing_system
+
 # Billing System
 
 This is a simple billing system created using Python's Tkinter library. It allows users to add items with their respective prices, generate a bill showing the total price, and clear the list of items.
